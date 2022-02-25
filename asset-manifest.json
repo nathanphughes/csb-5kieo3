@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://nathanphughes.github.io/csb-5kieo3/static/css/main.591722c4.chunk.css",
+    "main.js": "https://nathanphughes.github.io/csb-5kieo3/static/js/main.33ed2af9.chunk.js",
+    "main.js.map": "https://nathanphughes.github.io/csb-5kieo3/static/js/main.33ed2af9.chunk.js.map",
+    "runtime-main.js": "https://nathanphughes.github.io/csb-5kieo3/static/js/runtime-main.c7ca25b2.js",
+    "runtime-main.js.map": "https://nathanphughes.github.io/csb-5kieo3/static/js/runtime-main.c7ca25b2.js.map",
+    "static/js/2.a0307df6.chunk.js": "https://nathanphughes.github.io/csb-5kieo3/static/js/2.a0307df6.chunk.js",
+    "static/js/2.a0307df6.chunk.js.map": "https://nathanphughes.github.io/csb-5kieo3/static/js/2.a0307df6.chunk.js.map",
+    "index.html": "https://nathanphughes.github.io/csb-5kieo3/index.html",
+    "precache-manifest.9383a9bf08be5107d0684d3829505b8b.js": "https://nathanphughes.github.io/csb-5kieo3/precache-manifest.9383a9bf08be5107d0684d3829505b8b.js",
+    "service-worker.js": "https://nathanphughes.github.io/csb-5kieo3/service-worker.js",
+    "static/css/main.591722c4.chunk.css.map": "https://nathanphughes.github.io/csb-5kieo3/static/css/main.591722c4.chunk.css.map",
+    "static/js/2.a0307df6.chunk.js.LICENSE.txt": "https://nathanphughes.github.io/csb-5kieo3/static/js/2.a0307df6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7ca25b2.js",
+    "static/js/2.a0307df6.chunk.js",
+    "static/css/main.591722c4.chunk.css",
+    "static/js/main.33ed2af9.chunk.js"
+  ]
+}
